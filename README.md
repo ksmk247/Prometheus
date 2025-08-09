@@ -1,5 +1,4 @@
 # Server Monitoring and Alerting using Prometheus & Grafana
-Here’s your **Server Monitoring and Alerting using Prometheus & Grafana** written in a clean **GitHub README.md** format:
 
 ```markdown
 # Server Monitoring and Alerting using Prometheus & Grafana
